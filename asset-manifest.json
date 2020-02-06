@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pupster/static/css/main.97f1e7cb.chunk.css",
+    "main.js": "/pupster/static/js/main.4f92bd6a.chunk.js",
+    "main.js.map": "/pupster/static/js/main.4f92bd6a.chunk.js.map",
+    "runtime-main.js": "/pupster/static/js/runtime-main.0977139c.js",
+    "runtime-main.js.map": "/pupster/static/js/runtime-main.0977139c.js.map",
+    "static/js/2.0a5a0513.chunk.js": "/pupster/static/js/2.0a5a0513.chunk.js",
+    "static/js/2.0a5a0513.chunk.js.map": "/pupster/static/js/2.0a5a0513.chunk.js.map",
+    "index.html": "/pupster/index.html",
+    "precache-manifest.5dd23a7d9cd5026c641c9b45fe8d961b.js": "/pupster/precache-manifest.5dd23a7d9cd5026c641c9b45fe8d961b.js",
+    "service-worker.js": "/pupster/service-worker.js",
+    "static/css/main.97f1e7cb.chunk.css.map": "/pupster/static/css/main.97f1e7cb.chunk.css.map",
+    "static/js/2.0a5a0513.chunk.js.LICENSE.txt": "/pupster/static/js/2.0a5a0513.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0977139c.js",
+    "static/js/2.0a5a0513.chunk.js",
+    "static/css/main.97f1e7cb.chunk.css",
+    "static/js/main.4f92bd6a.chunk.js"
+  ]
+}
